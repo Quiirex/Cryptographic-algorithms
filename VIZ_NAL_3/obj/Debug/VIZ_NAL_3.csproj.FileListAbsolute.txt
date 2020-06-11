@@ -1,0 +1,17 @@
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\bin\Debug\VIZ_NAL_3.exe.config
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\bin\Debug\VIZ_NAL_3.exe
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\bin\Debug\VIZ_NAL_3.pdb
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.csprojAssemblyReference.cache
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\MainWindow.g.cs
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\App.g.cs
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3_MarkupCompile.cache
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3_MarkupCompile.lref
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\MainWindow.baml
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.g.resources
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.Properties.Resources.resources
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.csproj.GenerateResource.cache
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.csproj.CopyComplete
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.exe
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.pdb
+C:\Users\j6bou\source\repos\VIZ_NAL_3\VIZ_NAL_3\obj\Debug\VIZ_NAL_3.csproj.CoreCompileInputs.cache
