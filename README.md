@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/Quiirex/Kriptirni-algoritmi">
+  <a href="https://github.com/Quiirex/Cryptographic-algorithms">
   </a>
 
   <h1 align="center">Cryptographic algorithms</h1>
@@ -14,9 +14,9 @@
     A WF framework based cryptographic algorithm implementation and demonstration program
   <br/>
   <br/>
-    <a href="https://github.com/Quiirex/Kriptirni-algoritmi/issues">Report Bug</a>
+    <a href="https://github.com/Quiirex/Cryptographic-algorithms/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Quiirex/Kriptirni-algoritmi/issues">Request Feature</a>
+    <a href="https://github.com/Quiirex/Cryptographic-algorithms/issues">Request Feature</a>
   </p>
 </p>
 
@@ -44,11 +44,11 @@ This is an implementation of aforementioned algorithms in the C# language.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/Kriptirni-algoritmi/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
-[contributors-url]: https://github.com/Quiirex/Kriptirni-algoritmi/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
-[forks-url]: https://github.com/Quiirex/Kriptirni-algoritmi/network/members
-[stars-shield]: https://img.shields.io/github/stars/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
-[stars-url]: https://github.com/Quiirex/Kriptirni-algoritmi/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
-[issues-url]: https://github.com/Quiirex/Kriptirni-algoritmi/issues
+[contributors-shield]: https://img.shields.io/github/Cryptographic-algorithms/Quiirex/Cryptographic-algorithms.svg?style=for-the-badge
+[contributors-url]: https://github.com/Quiirex/Cryptographic-algorithms/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Quiirex/Cryptographic-algorithms.svg?style=for-the-badge
+[forks-url]: https://github.com/Quiirex/Cryptographic-algorithms/network/members
+[stars-shield]: https://img.shields.io/github/stars/Quiirex/Cryptographic-algorithms.svg?style=for-the-badge
+[stars-url]: https://github.com/Quiirex/Cryptographic-algorithms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Quiirex/Cryptographic-algorithms.svg?style=for-the-badge
+[issues-url]: https://github.com/Quiirex/Cryptographic-algorithms/issues
