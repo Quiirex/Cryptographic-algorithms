@@ -44,7 +44,7 @@ This is an implementation of aforementioned algorithms in the C# language.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/Kriptirni-algoritmi/Quiirex/4us2watch.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/Kriptirni-algoritmi/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
 [contributors-url]: https://github.com/Quiirex/Kriptirni-algoritmi/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Quiirex/Kriptirni-algoritmi.svg?style=for-the-badge
 [forks-url]: https://github.com/Quiirex/Kriptirni-algoritmi/network/members
