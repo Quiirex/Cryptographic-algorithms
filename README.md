@@ -12,10 +12,6 @@
   <p align="center">
     A WF framework based cryptographic algorithm implementation and demonstration program
   <br/>
-  <br/>
-    <a href="https://github.com/Quiirex/Cryptographic-algorithms/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Quiirex/Cryptographic-algorithms/issues">Request Feature</a>
   </p>
 </p>
 
